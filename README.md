@@ -17,8 +17,5 @@ Para ejecutar este notebook, necesitas tener instaladas las siguientes bibliotec
 2.  Inicia Jupyter Notebook en la terminal.
 3.  Abre el archivo experimento_backpropagation.ipynb y ejecuta todas las celdas en orden. El notebook generará y mostrará los gráficos de datos iniciales, la curva de pérdida del entrenamiento y las fronteras de decisión finales.
 
-### Resultados del Experimento
-El modelo se entrenó con éxito, mostrando una rápida disminución de la pérdida durante las primeras épocas. Al finalizar el entrenamiento, el modelo logró establecer fronteras de decisión claras y precisas, clasificando correctamente los datos de prueba.
-
 ***
 **Autor:** César Núñez
