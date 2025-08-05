@@ -15,7 +15,7 @@ Para ejecutar este notebook, necesitas tener instaladas las siguientes bibliotec
 ### Cómo ejecutar el código
 1.  Asegúrate de tener un entorno de Python con Jupyter Notebook instalado.
 2.  Inicia Jupyter Notebook en la terminal.
-3.  Abre el archivo experimento_backpropagation.ipynb y ejecuta todas las celdas en orden. El notebook generará y mostrará los gráficos de datos iniciales, la curva de pérdida del entrenamiento y las fronteras de decisión finales.
+3.  Abre el archivo Backpropagation.ipynb y ejecuta todas las celdas en orden. El notebook generará y mostrará los gráficos de datos iniciales, la curva de pérdida del entrenamiento y las fronteras de decisión finales.
 
 ***
 **Autor:** César Núñez
