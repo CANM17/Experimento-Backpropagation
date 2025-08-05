@@ -4,7 +4,7 @@
 Este repositorio contiene la implementación del algoritmo de **Backpropagation** desde cero en un notebook de Jupyter. El objetivo es entrenar una red neuronal para resolver un problema de clasificación de datos sintéticos en 2D y documentar el proceso de aprendizaje del modelo.
 
 ### Contenido del Repositorio
-* `experimento_backpropagation.ipynb`: El notebook de Jupyter que contiene la implementación completa de la clase `NeuralNetwork`, las funciones de activación, la generación de datos y las visualizaciones de los resultados.
+* `Backpropagation.ipynb`: El notebook de Jupyter que contiene la implementación completa de la clase `NeuralNetwork`, las funciones de activación, la generación de datos y las visualizaciones de los resultados.
 
 ### Requisitos
 Para ejecutar este notebook, necesitas tener instaladas las siguientes bibliotecas de Python:
